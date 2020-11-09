@@ -12,7 +12,7 @@ I 'm currently working on a great startup called Zignaly a site that connect tra
 - 😄 Pronouns: what?
 - ⚡ Fun fact: I have born in Andorra
 
-[![servatj's github stats](https://github-readme-stats.vercel.app/api?username=servatj)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dracula)
+[![servatj's github stats](https://github-readme-stats.vercel.app/api?username=servatj&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Open repos: 
 
