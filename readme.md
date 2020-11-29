@@ -34,8 +34,8 @@ Linkedin.
 |![image](https://media-exp1.licdn.com/dms/image/C560BAQHR5hTHJKBKNg/company-logo_100_100/0/1519862519680?e=1614816000&v=beta&t=X8RcG6IR1T6O644maJQ-mVOEnstUW2H4FzQAJH9X314)   |  2020-07-01 - 2020-02-01  | Senior Fullstack-Blockchain Developer |
 |![image](https://media-exp1.licdn.com/dms/image/C4D0BAQEDHxvZMKErEg/company-logo_100_100/0/1605690317598?e=1614816000&v=beta&t=1NhjzAbUXP8Ax8RjmS0qjNp9YG7Fv35fhCTquTMVdjo)   |  2020-01-01 - 2020-03-01  | Senior Node Js Backend |
 |![image](https://media-exp1.licdn.com/dms/image/C4D0BAQHHQ8jadeKDyQ/company-logo_200_200/0?e=1614816000&v=beta&t=ETTJpsFfyCpuUxxBstnXF6HJh5k3vZAK0jFKqneh6AE)   |  2019-09-01 - 2020-12-01  | Data Engineer |
-|![image](https://media-exp1.licdn.com/dms/image/C560BAQFGbIaL_NbU2Q/company-logo_200_200/0?e=1614816000&v=beta&t=oU0sZTb-SAKXyG03Rm4lAKDS39bpPiVtmneZbvKlvhA)   |  2019-09-01 - 2020-12-01  | Full Stack Developer Big Data/Node Js/spark/microservices |
-|![image](https://media-exp1.licdn.com/dms/image/C4E0BAQEAv1TK5N2cGw/company-logo_200_200/0/1519892528561?e=1614816000&v=beta&t=kqyB6VxK8kLu4e_sRQ_FRNDNBWVlfbhMK5YQxV-21yE)   |  2019-09-01 - 2020-12-01  | Senior Software Developer (Guidesmiths Contractor) |
+|![image](https://media-exp1.licdn.com/dms/image/C560BAQFGbIaL_NbU2Q/company-logo_200_200/0?e=1614816000&v=beta&t=oU0sZTb-SAKXyG03Rm4lAKDS39bpPiVtmneZbvKlvhA)   |  2017-02-01 - 2019-09-01  | Full Stack Developer Big Data/Node Js/spark/microservices |
+|![image](https://media-exp1.licdn.com/dms/image/C4E0BAQEAv1TK5N2cGw/company-logo_200_200/0/1519892528561?e=1614816000&v=beta&t=kqyB6VxK8kLu4e_sRQ_FRNDNBWVlfbhMK5YQxV-21yE)   |  2017-02-01 - 2019-09-01  | Senior Software Developer (Guidesmiths Contractor) |
 
 
 
