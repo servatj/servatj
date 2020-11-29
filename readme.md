@@ -25,5 +25,13 @@ Twitter: @servatj
 Instagram: servatj_instagram
 Linkedin.
 
-![image](https://user-images.githubusercontent.com/3521485/98488022-16694a00-2227-11eb-9106-bcb50eb36819.png)
+
+## Main Companies I worked for: 
+
+|  company logo                                                                                                  | period       |  description  | 
+|----------------------------------------------------------------------------------------------------------------|--------------|-------------- |
+|![image](https://media-exp1.licdn.com/dms/image/C4D0BAQHW3KqJy3N1yQ/company-logo_100_100/0?e=1614816000&v=beta&t=fGB2vLB3L8Ou-rVeSFSsLI3gd1VCh11yv5Lf9zRXXb4)   |  2020-07-01  | Blockchain Engineer Fullstack nodejs/react (Contract)|
+|![image](https://media-exp1.licdn.com/dms/image/C560BAQHR5hTHJKBKNg/company-logo_100_100/0/1519862519680?e=1614816000&v=beta&t=X8RcG6IR1T6O644maJQ-mVOEnstUW2H4FzQAJH9X314)   |  2020-07-01  | Senior Fullstack-Blockchain Developer |
+
+
 
