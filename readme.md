@@ -37,13 +37,14 @@ Linkedin.
 
 ## Main Companies I worked for: 
 
-| period |  description  | 
-|-|-|-|
-|  2020-07-01 - current job  | Blockchain Engineer Fullstack nodejs/react (Contract)|
-|  2020-07-01 - 2020-02-01  | Senior Fullstack-Blockchain Developer |
-|  2017-02-01 - 2020-02-20  | Full Stack Developer Big Data/Node Js/spark/microservices |
-|  2017-02-01 - 2019-09-01  | Senior Software Developer (Guidesmiths Contractor) |
+## Main Companies I worked for: 
 
+|  company logo | period |  description  | 
+|-|-|-|
+![image](https://user-images.githubusercontent.com/3521485/132065822-1ae9bc37-961e-4472-8061-0fa421c1bfa0.png) |  2020-07-01 - current job  | Blockchain Engineer Fullstack nodejs/react (Contract)|
+![image](https://user-images.githubusercontent.com/3521485/132065648-015dda9d-6bab-4b34-894d-b0a71a6b080c.png)  |  2020-07-01 - 2020-02-01  | Senior Fullstack-Blockchain Developer |
+![image](https://user-images.githubusercontent.com/3521485/132065392-afb5cf40-4d4d-455e-83c4-f336e55c7a30.png)|  2017-02-01 - 2020-02-20  | Full Stack Developer Node Js/microservices/Integrations/Big Data AWS  |
+!![image](https://user-images.githubusercontent.com/3521485/132065250-cd985a27-34a6-43e1-9853-5523ab30bde4.png)|  2017-02-01 - 2019-09-01  | Senior Software Developer Node JS AWS (Guidesmiths Contractor) |
 
 
 
