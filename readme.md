@@ -16,8 +16,10 @@ I 'm currently working on a great startup called Zignaly a site that connect tra
 <!-- Banner -->
 <p>
    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100px" height="100px" alt="react" />
+   <img src="https://media.giphy.com/media/Y1q8LF4Fc6DoQYC3fi/source.gif" width="100px" height="100px" alt="svelte" />
    <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/source.gif" width="100px" height="100px" alt="javascript" />
    <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100px" height="100px" alt="node" />
+   
 </p>
 
 
