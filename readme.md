@@ -40,7 +40,8 @@ Linkedin.
 
 |  company logo | period |  description  | 
 |-|-|-|
-![image](https://user-images.githubusercontent.com/3521485/132066201-295503a5-10dd-4c9f-81fe-594a2c386ab5.png) |  2021-03-01 - current job  | Fullstack nodejs/angular/react typescript azure (Permanent)
+![image](https://media-exp1.licdn.com/dms/image/C4E0BAQEZ4l3IWnDUQQ/company-logo_200_200/0/1656427341744?e=1668038400&v=beta&t=0YHsROE80EOAa_1JhEE9V7O__w5xSV-PLPreKrX4VYM) |  2021-09-01 - current job  | Fullstack nodejs/svelte/react typescript blockchain
+![image](https://user-images.githubusercontent.com/3521485/132066201-295503a5-10dd-4c9f-81fe-594a2c386ab5.png) |  2021-03-01 - 2021-03-01 | Fullstack nodejs/angular/react typescript azure
 ![image](https://user-images.githubusercontent.com/3521485/132065822-1ae9bc37-961e-4472-8061-0fa421c1bfa0.png) |  2020-01-01 - 2021-03-91 | Fullstack nodejs/react (Contract)|
 ![image](https://user-images.githubusercontent.com/3521485/132065648-015dda9d-6bab-4b34-894d-b0a71a6b080c.png) |  2019-01-01 - 2020-01-01  | Senior Fullstack-Blockchain Developer (Contract)|
 ![image](https://user-images.githubusercontent.com/3521485/132065392-afb5cf40-4d4d-455e-83c4-f336e55c7a30.png) |  2017-02-01 - 2020-02-20  | Full Stack Developer Node Js/microservices/Integrations/Big Data AWS  |
