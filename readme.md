@@ -9,7 +9,7 @@ I like to make a lot of stuff, looking to do someday something cool! I'm really 
 - 💬 Ask me about programming, tdd, ethereum and EA Fifa 21 (I'm a decent player 😄) 
 - 📫 How to reach me: @servatj
 - 😄 Pronouns: what?
-- ⚡ Fun fact: I have born in Andorra
+- ⚡ Fun fact: I have born in [Andorra](https://es.wikipedia.org/wiki/Andorra)
 
 ### Technologies I've been working with.
 <!-- Banner -->
