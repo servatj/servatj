@@ -40,7 +40,8 @@ Linkedin.
 
 |  company logo | period |  description  | 
 |-|-|-|
-![image](https://media-exp1.licdn.com/dms/image/C4E0BAQEZ4l3IWnDUQQ/company-logo_200_200/0/1656427341744?e=1668038400&v=beta&t=0YHsROE80EOAa_1JhEE9V7O__w5xSV-PLPreKrX4VYM) |  2021-09-01 - current job  | Fullstack nodejs/svelte/react typescript blockchain
+![image](https://cdn.prod.website-files.com/66cdf84d5ef945a2f765fc6b/66faf0c17f65b33717c77809_636162392c7713af03370c10_635ec0acf95dcc87b033ad87_rapyd.png) |  2022-11-01 - current job  | Fullstack nodejs/svelte/react typescript Rapyd Global Payment Company
+![image](https://github.com/user-attachments/assets/d41ec78d-184f-4ef6-b9a1-63d087e4b18a) |  2021-09-01 - 2022-10-31 | Fullstack nodejs/svelte/react typescript blockchain
 ![image](https://user-images.githubusercontent.com/3521485/132066201-295503a5-10dd-4c9f-81fe-594a2c386ab5.png) |  2021-03-01 - 2021-03-01 | Fullstack nodejs/angular/react typescript azure
 ![image](https://user-images.githubusercontent.com/3521485/132065822-1ae9bc37-961e-4472-8061-0fa421c1bfa0.png) |  2020-01-01 - 2021-03-91 | Fullstack nodejs/react (Contract)|
 ![image](https://user-images.githubusercontent.com/3521485/132065648-015dda9d-6bab-4b34-894d-b0a71a6b080c.png) |  2019-01-01 - 2020-01-01  | Senior Fullstack-Blockchain Developer (Contract)|
